@@ -1,4 +1,7 @@
 <?php 
+// Prevent direct access
+defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
+
 // Load text domain
 function barbas_mail_load_textdomain() {
   load_plugin_textdomain( 'barbas-dwms', false, basename( dirname( __FILE__ ) ) . '/languages' ); 
