@@ -10,11 +10,8 @@ Simple way to change the default wordpress sender's name and email.
 Change Mail Sender name, Change Mail Sender email, wordpress default mail sender change, change from email and name, change from wordpress email name.
 
 Requires at least: 4.9
-
 Tested up to: 5.2
-
 License: GPLv2 or later
-
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 ## Description
@@ -55,6 +52,8 @@ Just install this plguin. and go to wp-admin panel, then check Barbas Mail Sende
 
 ## Screenshots
 
-1. screenshot-1 admin panel (Coming soon)
+![Admin panel](https://github.com/guibarbas/barbas-dwms/blob/master/screenshots/screenshot-1.png)
+![Received email](https://github.com/guibarbas/barbas-dwms/blob/master/screenshots/screenshot-2.png)
 
-2. screenshot-2 received email  (Coming soon)
+1. screenshot-1 admin panel
+2. screenshot-2 received email
