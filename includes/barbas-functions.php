@@ -71,21 +71,4 @@ function barbas_new_mail_from_name($old) {
 		return($old);
 	}
 }
-
-/* Future Feature
-// Change the default wordpress@ email address Automatically
-
-// Modify sender email to noreply@wpurl
-add_filter( 'wp_mail_from', 'barbas_wp_mail_from' );
-function barbas_wp_mail_from() {
-    return "no-reply@".get_bloginfo('wpurl');
-}
- 
-// Modify sender name to wpname
-add_filter( 'wp_mail_from_name', 'barbas_ep_mail_from_name' );
-function barbas_ep_mail_from_name() {
-    return get_bloginfo('name');
-}
-*/
-
 ?>

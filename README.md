@@ -1,4 +1,4 @@
-# Barbas - Default wordpress mail sender
+# Barbas - Default wp mail sender
 
 ### Contributors
 Guilherme Souza // https://github.com/guibarbas
@@ -10,7 +10,7 @@ Simple way to change the default wordpress sender's name and email.
 Change Mail Sender name, Change Mail Sender email, wordpress default mail sender change, change from email and name, change from wordpress email name.
 
 Requires at least: 4.9
-Tested up to: 5.2
+Tested up to: 5.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -24,13 +24,13 @@ This section describes how to install the plugin and get it working.
 
 FROM YOUR WORDPRESS DASHBOARD
 1. Visit ‘Plugins > Add New’.
-3. Search for ‘Barbas - Default wordpress mail sender.
-3. Activate Barbas - Default wordpress mail sender from your Plugins page.
+3. Search for ‘Barbas - Default wp mail sender.
+3. Activate Barbas - Default wp mail sender from your Plugins page.
 
 FROM WORDPRESS.ORG
-1. Download Barbas - Default wordpress mail sender.
-3. Upload the ‘barbas-dws’ directory to your ‘/wp-content/plugins/’ directory, using your favorite method (ftp, sftp, scp, etc…).
-3. Activate Barbas - Default wordpress mail sender from your Plugins page.
+1. Download Barbas - Default wp mail sender.
+3. Upload the ‘barbas-dwms’ directory to your ‘/wp-content/plugins/’ directory, using your favorite method (ftp, sftp, scp, etc…).
+3. Activate Barbas - Default wp mail sender from your Plugins page.
 
 ## Frequently Asked Questions 
 
@@ -38,13 +38,13 @@ FROM WORDPRESS.ORG
 
 FROM YOUR WORDPRESS DASHBOARD
 1. Visit ‘Plugins > Add New’.
-3. Search for ‘Barbas - Default wordpress mail sender.
-3. Activate Barbas - Default wordpress mail sender from your Plugins page.
+3. Search for ‘Barbas - Default wp mail sender.
+3. Activate Barbas - Default wp mail sender from your Plugins page.
 
 FROM WORDPRESS.ORG
-1. Download Barbas - Default wordpress mail sender.
-3. Upload the ‘barbas-dws’ directory to your ‘/wp-content/plugins/’ directory, using your favorite method (ftp, sftp, scp, etc…).
-3. Activate Barbas - Default wordpress mail sender from your Plugins page.
+1. Download Barbas - Default wp mail sender.
+3. Upload the ‘barbas-dwms’ directory to your ‘/wp-content/plugins/’ directory, using your favorite method (ftp, sftp, scp, etc…).
+3. Activate Barbas - Default wp mail sender from your Plugins page.
 
 ### How to use this plugin?
 
