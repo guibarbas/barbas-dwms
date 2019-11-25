@@ -14,10 +14,6 @@ Tested up to: 5.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-## Description
-
-Simple way to change the default wordpress sender's name and email.
-
 ## Installation
 
 This section describes how to install the plugin and get it working.
