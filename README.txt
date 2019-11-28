@@ -9,9 +9,13 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-You're Welcome to <a href="https://github.com/guibarbas/barbas-dwms">Github Repo</a> for features/pull request 
 
 Simple way to change the default wordpress sender\'s name and email.
+
+== Description ==
+Simple way to change the default wordpress sender\'s name and email.
+
+You're Welcome to <a href="https://github.com/guibarbas/barbas-dwms">Github Repo</a> for features/pull request 
 
 == Installation ==
 FROM YOUR WORDPRESS DASHBOARD
