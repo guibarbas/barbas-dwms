@@ -5,7 +5,7 @@ Tags: Change Mail Sender name, Change Mail Sender email, wordpress default mail 
 Requires at least: 4.9
 Tested up to: 5.3.2
 Requires PHP: 5.6
-Stable tag: 1.0.2
+Stable tag: 1.0.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -50,6 +50,9 @@ Just install this plguin. and go to wp-admin panel, then check Barbas Mail Sende
 2. screenshot-2 received email
 
 == Changelog ==
+= 1.0.2.1 =
+* Fix: Placeholder Adjustment.
+
 = 1.0.2 =
 * Compatibility with Wordpress version 5.3.2.
 
@@ -60,6 +63,12 @@ Just install this plguin. and go to wp-admin panel, then check Barbas Mail Sende
 * Initial release.
 
 == Upgrade Notice == 
+= 1.0.2.1 =
+* Fix: Placeholder Adjustment.
+
+= 1.0.2 =
+* Compatibility with Wordpress version 5.3.2.
+
 = 1.0.1 =
 * Compatibility with Wordpress version 5.3.1.
 

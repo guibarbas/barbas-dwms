@@ -27,7 +27,7 @@ function barbas_mail_sender_function(){
 }
 
 function barbas_mail_sender_email() {
-	echo '<input name="barbas_mail_sender_email_id" type="email" class="regular-text" value="'.get_option('barbas_mail_sender_email_id').'" placeholder="no_reply@yourdomain.com"/>';
+	echo '<input name="barbas_mail_sender_email_id" type="email" class="regular-text" value="'.get_option('barbas_mail_sender_email_id').'" placeholder="no-reply@yourdomain.com"/>';
 }
 
 
