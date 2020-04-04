@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barbas - Default wp mail sender\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-04 22:38+0000\n"
+"PO-Revision-Date: 2020-04-04 22:58+0000\n"
+"Last-Translator: Barbas Digital\n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Name of the plugin
+msgid "Barbas - Default wp mail sender"
+msgstr "Barbas - Default wp mail sender"
+
+#: includes/barbas-functions.php:70
+msgid "Barbas mail sender: The *sender id* has not been set on"
+msgstr "Barbas Mail Sender: O *ID do remetente* não foi definido em"
+
+#: includes/barbas-functions.php:39
+msgid "Barbas Mail Sender"
+msgstr "Barbas Mail Sender"
+
+#: includes/barbas-functions.php:61
+msgid "Barbas mail sender: The *sender email id* has not been set on"
+msgstr "Barbas Mail Sender: O *ID do e-mail do remetente* não foi definido em"
+
+#: includes/barbas-functions.php:18
+msgid "Email"
+msgstr "E-mail"
+
+#. Author of the plugin
+msgid "Guilherme Souza"
+msgstr "Guilherme Souza"
+
+#: barbas-dwms.php:17
+msgid "Hi there, I'm just a plugin, not much I can do when called directly."
+msgstr ""
+"Olá, sou apenas um plugin, não posso fazer muito quando chamado diretamente."
+
+#. URI of the plugin
+msgid "http://www.barbas.digital"
+msgstr "http://www.barbas.digital"
+
+#. Author URI of the plugin
+msgid "https://www.barbas.digital"
+msgstr "https://www.barbas.digital"
+
+#: includes/barbas-functions.php:14
+msgid "Name"
+msgstr "Nome"
+
+#: includes/barbas-functions.php:12 includes/barbas-functions.php:39
+msgid "Settings"
+msgstr "Definições"
+
+#. Description of the plugin
+msgid "Simple way to change the default wordpress sender's name and email."
+msgstr ""
+"Um modo simples de alterar o nome e o e-mail do remetente padrão do "
+"Wordpress."
+
+#: includes/barbas-functions.php:35
+msgid "You may change your WordPress Default mail sender name and email."
+msgstr "Você pode alterar o nome e o e-mail do remetente padrão do WordPress."

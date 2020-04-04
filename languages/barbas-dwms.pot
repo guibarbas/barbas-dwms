@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barbas - Default wp mail sender\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-04 22:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Name of the plugin
+msgid "Barbas - Default wp mail sender"
+msgstr ""
+
+#: includes/barbas-functions.php:70
+msgid "Barbas mail sender: The *sender id* has not been set on"
+msgstr ""
+
+#: includes/barbas-functions.php:39
+msgid "Barbas Mail Sender"
+msgstr ""
+
+#: includes/barbas-functions.php:61
+msgid "Barbas mail sender: The *sender email id* has not been set on"
+msgstr ""
+
+#: includes/barbas-functions.php:18
+msgid "Email"
+msgstr ""
+
+#. Author of the plugin
+msgid "Guilherme Souza"
+msgstr ""
+
+#: barbas-dwms.php:17
+msgid "Hi there, I'm just a plugin, not much I can do when called directly."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.barbas.digital"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.barbas.digital"
+msgstr ""
+
+#: includes/barbas-functions.php:14
+msgid "Name"
+msgstr ""
+
+#: includes/barbas-functions.php:12 includes/barbas-functions.php:39
+msgid "Settings"
+msgstr ""
+
+#. Description of the plugin
+msgid "Simple way to change the default wordpress sender's name and email."
+msgstr ""
+
+#: includes/barbas-functions.php:35
+msgid "You may change your WordPress Default mail sender name and email."
+msgstr ""

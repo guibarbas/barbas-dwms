@@ -9,13 +9,13 @@ function barbas_mail_load_textdomain() {
 
 // Register sender
 function barbas_mail_sender_register() {
-	add_settings_section('barbas_mail_sender_section', __('Barbas Mail Sender Options', 'barbas-dwms'), 'barbas_mail_sender_text', 'barbas_mail_sender');
+	add_settings_section('barbas_mail_sender_section', __('Settings', 'barbas-dwms'), 'barbas_mail_sender_text', 'barbas_mail_sender');
 
-	add_settings_field('barbas_mail_sender_id', __('Barbas Mail Sender Name','barbas-dwms'), 'barbas_mail_sender_function', 'barbas_mail_sender',  'barbas_mail_sender_section');
+	add_settings_field('barbas_mail_sender_id', __('Name','barbas-dwms'), 'barbas_mail_sender_function', 'barbas_mail_sender',  'barbas_mail_sender_section');
 
 	register_setting('barbas_mail_sender_section', 'barbas_mail_sender_id');
 
-	add_settings_field('barbas_mail_sender_email_id', __('Barbas Mail Sender Email', 'barbas-dwms'), 'barbas_mail_sender_email', 'barbas_mail_sender',  'barbas_mail_sender_section');
+	add_settings_field('barbas_mail_sender_email_id', __('Email', 'barbas-dwms'), 'barbas_mail_sender_email', 'barbas_mail_sender',  'barbas_mail_sender_section');
 
 	register_setting('barbas_mail_sender_section', 'barbas_mail_sender_email_id');
 
@@ -23,7 +23,7 @@ function barbas_mail_sender_register() {
 
 // Sender functions
 function barbas_mail_sender_function(){
-	echo '<input name="barbas_mail_sender_id" type="text" class="regular-text" value="'.get_option('barbas_mail_sender_id').'" placeholder="Barbas Mail Name"/>';
+	echo '<input name="barbas_mail_sender_id" type="text" class="regular-text" value="'.get_option('barbas_mail_sender_id').'" placeholder="Name"/>';
 }
 
 function barbas_mail_sender_email() {
@@ -32,11 +32,11 @@ function barbas_mail_sender_email() {
 
 
 function barbas_mail_sender_text() {
-	echo '<p>You may change your WordPress Default mail sender name and email.</p>';
+	echo '<p>' .__( 'You may change your WordPress Default mail sender name and email.', 'barbas-dwms' ).'</p>';
 }
 
 function barbas_mail_sender_menu() {
-	add_menu_page(__('Barbas Mail Sender Options', 'barbas-dwms'), __('Barbas Mail Sender', 'barbas-dwms'), 'manage_options', 'barbas_mail_sender', 'barbas_mail_sender_output', 'dashicons-rest-api');
+	add_menu_page(__('Settings', 'barbas-dwms'), __('Barbas Mail Sender', 'barbas-dwms'), 'manage_options', 'barbas_mail_sender', 'barbas_mail_sender_output', 'dashicons-email-alt2');
 }
 
 
@@ -67,7 +67,7 @@ function barbas_new_mail_from_name($old) {
 		return get_option('barbas_mail_sender_id');
 	}
 	else{
-		trigger_error (__('Barbas mail mail sender: The *sender id* has not been set on', 'barbas-dwms').get_bloginfo('url').".", E_USER_NOTICE );
+		trigger_error (__('Barbas mail sender: The *sender id* has not been set on', 'barbas-dwms').get_bloginfo('url').".", E_USER_NOTICE );
 		return($old);
 	}
 }
