@@ -51,7 +51,7 @@ Just install this plguin. and go to wp-admin panel, then check Barbas Mail Sende
 
 == Changelog ==
 = 1.0.3 =
-* Add: Compatibility with Wordpress version 5.4.
+* Add: Compatibility with WordPress version 5.4.
 * Add: Standard language template. 
 * Add: New language - Brazilian Portuguese. 
 * Fix: Improvements in texts and icon.
@@ -60,17 +60,17 @@ Just install this plguin. and go to wp-admin panel, then check Barbas Mail Sende
 * Fix: Placeholder Adjustment.
 
 = 1.0.2 =
-* Compatibility with Wordpress version 5.3.2.
+* Compatibility with WordPress version 5.3.2.
 
 = 1.0.1 =
-* Add: Compatibility with Wordpress version 5.3.1.
+* Add: Compatibility with WordPress version 5.3.1.
 
 = 1.0 =
 * Initial release.
 
 == Upgrade Notice == 
 = 1.0.3 =
-* Add: Compatibility with Wordpress version 5.4.
+* Add: Compatibility with WordPress version 5.4.
 * Add: Standard language template. 
 * Add: New language - Brazilian Portuguese. 
 * Fix: Improvements in texts and icon.
@@ -79,10 +79,10 @@ Just install this plguin. and go to wp-admin panel, then check Barbas Mail Sende
 * Fix: Placeholder Adjustment.
 
 = 1.0.2 =
-* Compatibility with Wordpress version 5.3.2.
+* Compatibility with WordPress version 5.3.2.
 
 = 1.0.1 =
-* Add: Compatibility with Wordpress version 5.3.1.
+* Add: Compatibility with WordPress version 5.3.1.
 
 = 1.0 =
 * Initial release.
