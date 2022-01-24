@@ -10,7 +10,7 @@ Simple way to change the default wordpress sender's name and email.
 Change Mail Sender name, Change Mail Sender email, wordpress default mail sender change, change from email and name, change from wordpress email name.
 
 Requires at least: 4.9
-Tested up to: 5.5
+Tested up to: 5.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
