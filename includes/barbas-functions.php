@@ -3,7 +3,7 @@
 defined('ABSPATH') or die('No script kiddies please!');
 
 // Load text domain
-add_action('init', 'barbas_mail_load_textdomain');
+add_action('plugins_loaded', 'barbas_mail_load_textdomain');
 function barbas_mail_load_textdomain()
 {
 	load_plugin_textdomain('barbas-dwms', false, dirname(plugin_basename(__FILE__)) . '/languages');
