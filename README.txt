@@ -50,6 +50,9 @@ Just install this plguin. and go to wp-admin panel, then check Barbas Mail Sende
 2. screenshot-2 received email
 
 == Changelog ==
+= 1.0.4.1 =
+Fix: Small adjustment to Hooks.
+
 = 1.0.4 =
 * Update: Compatibility with WordPress version 6.4.1.
 * Add: Check for PHP version 5.6 or higher.
@@ -83,6 +86,9 @@ Just install this plguin. and go to wp-admin panel, then check Barbas Mail Sende
 * Initial release.
 
 == Upgrade Notice ==
+= 1.0.4.1 =
+Fix: Small adjustment to Hooks.
+
 = 1.0.4 =
 * Update: Compatibility with WordPress version 6.4.1.
 * Add: Check for PHP version 5.6 or higher.
