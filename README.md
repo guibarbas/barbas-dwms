@@ -1,6 +1,6 @@
 # Barbas - Default wp mail sender
 
-![Plugin Version](https://img.shields.io/badge/Version-1.4-blue.svg)
+![Plugin Version](https://img.shields.io/badge/Version-2.0-blue.svg)
 ![WordPress Compatibility](https://img.shields.io/badge/WordPress-6.4%2B-green.svg)
 ![PHP Compatibility](https://img.shields.io/badge/PHP-5.6%2B-green.svg)
 ![License](https://img.shields.io/badge/License-GPLv2%20or%20Later-orange.svg)
