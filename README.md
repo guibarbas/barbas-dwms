@@ -55,7 +55,7 @@ Just install this plguin. and go to wp-admin panel, then check Barbas Mail Sende
 
 ## Screenshots
 
-![Admin panel](https://ps.w.org/barbas-default-wp-mail-sender/assets/screenshot-1.png?rev=2276118)
+![Admin panel](https://ps.w.org/barbas-default-wp-mail-sender/assets/screenshot-1.png?rev=2999234)
 ![Received email](https://ps.w.org/barbas-default-wp-mail-sender/assets/screenshot-2.png?rev=2200743)
 
 1. screenshot-1 admin panel
