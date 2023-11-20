@@ -3,7 +3,7 @@
 Plugin Name: Barbas - Default wp mail sender
 Plugin URI: https://www.barbas.digital
 Description: Simple way to change the default wordpress sender's name and email.
-Version: 1.0.3.2
+Version: 1.0.4
 Author: Guilherme Souza
 Author URI: https://www.barbas.digital
 Licence: GPLv2 or later
@@ -22,7 +22,7 @@ if (!function_exists('add_action')) {
 include('includes/barbas-functions.php');
 
 // Hooks
-add_action( 'init', 'barbas_mail_load_textdomain' );
+add_action('init', 'barbas_mail_load_textdomain');
 add_action('admin_init', 'barbas_mail_sender_register');
 add_action('admin_menu', 'barbas_mail_sender_menu');
 add_filter('wp_mail_from', 'barbas_new_mail_from');

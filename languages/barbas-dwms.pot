@@ -32,6 +32,14 @@ msgstr ""
 msgid "Email"
 msgstr ""
 
+#: includes/barbas-functions.php:72
+msgid "Enter the email address to send a test email:"
+msgstr ""
+
+#: includes/barbas-functions.php:12 includes/barbas-functions.php:39
+msgid "Settings"
+msgstr ""
+
 #. Author of the plugin
 msgid "Guilherme Souza"
 msgstr ""
@@ -52,12 +60,12 @@ msgstr ""
 msgid "Name"
 msgstr ""
 
-#: includes/barbas-functions.php:12 includes/barbas-functions.php:39
-msgid "Settings"
+#: includes/barbas-functions.php:72
+msgid "Send Test Email"
 msgstr ""
 
-#. Description of the plugin
-msgid "Simple way to change the default wordpress sender's name and email."
+#: includes/barbas-functions.php:61
+msgid "Test Email from Barbas Mail Sender"
 msgstr ""
 
 #: includes/barbas-functions.php:35
